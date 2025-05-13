@@ -31,3 +31,8 @@ The system uses **normalized relational tables** and demonstrates various SQL co
 2. **Open MySQL Workbench**
 3. **Files>Open SQL Scripts**
 4. **Then Execute it using the ⚡symbol on the mySQLBench**
+
+## ERD Diagram
+Below is an image of the ERD Diagram with all the Relationships between the EventVenueManagementBooking System
+---
+![image](https://github.com/user-attachments/assets/aefc574c-19aa-4061-bc2b-a070f3c33e6a)
